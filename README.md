@@ -1,3 +1,3 @@
 # ML-HD
 
-This is Predicting Heart Disease
+Predicting heart disease based on commonly available clinical data using machine learning.
